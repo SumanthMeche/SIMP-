@@ -11,5 +11,5 @@ This means that the bottom left node is  0,1 (for x, y), the bottom right as 2,3
 Global node numbering follows a column-wise pattern, starting from the leftmost column of the mesh. Within each column,
 numbering begins at the bottom and moves to the top. After reaching the top node of a column, numbering continues at the bottom node of the next column to the right.
 
-*** Code was written under the guidance of Prof.Tim Chen, who established the thematic framework.
+*** Code was written under the guidance of Prof. Tian Chen, who established the thematic framework.
 *** And I was responsible for the detailed implementation and development of the code.
